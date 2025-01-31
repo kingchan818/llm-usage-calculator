@@ -6,10 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/llm-usage-cal/actions"><img src="https://github.com/your-username/llm-usage-cal/actions/workflows/main.yml/badge.svg" alt="Build Status"></a>
+  <img src="https://github.com/kingchan818/llm-usage-calculator/actions/workflows/release.yml/badge.svg">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-  <a href="https://discord.gg/your-discord"><img src="https://img.shields.io/discord/your-discord-id?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
+
+
 
 ## Features
 
