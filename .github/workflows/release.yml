@@ -58,8 +58,9 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     permissions:
-      packages: write
       contents: read
+      pages: write
+      id-token: write
     steps:
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
