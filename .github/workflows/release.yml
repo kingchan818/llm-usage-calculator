@@ -82,6 +82,7 @@ jobs:
 
       - name: Build And Relase Docker image
         uses: docker/build-push-action@v6
+        id: push
         with:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
