@@ -35,6 +35,8 @@ export const costMappingWithoutCacheHit: Record<
     'gpt-4o-2024-05-13': { input: 2.5, output: 15.0 },
     'gpt-4o-mini': { input: 0.15, output: 0.6 },
     'gpt-4o-mini-2024-07-18': { input: 0.15, output: 0.6 },
+    'o3-mini': { input: 1.1, output: 4.4 },
+    '03-mini-2025-01-31': { input: 1.1, output: 4.4 },
   },
   perplexity: {
     // per 1000 searches from the result.citations
@@ -53,5 +55,7 @@ export const costMappingWithCacheHit: Record<
     'gpt-4o-2024-11-20': { input: 1.25 },
     'gpt-4o-mini': { input: 0.075 },
     'gpt-4o-mini-2024-07-18': { input: 0.075 },
+    'o3-mini': { input: 0.55 },
+    '03-mini-2025-01-31': { input: 0.55 },
   },
 };

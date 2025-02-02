@@ -24,6 +24,7 @@
 ### OpenAI
 - GPT-4 and variants (with different pricing for input/output tokens)
 - GPT-4 Mini models
+- O3 Mini models
 - Cache-hit optimized pricing
 
 ### Fireworks
